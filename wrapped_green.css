@@ -1,0 +1,53 @@
+body{
+    overflow-x: hidden;
+}
+header{
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+}
+.Hero_cont{
+   background: transparent linear-gradient(180deg, #DEF0D8 0%, var(--unnamed-color-fafafa) 100%) 0% 0% no-repeat padding-box;
+background: transparent linear-gradient(180deg, #DEF0D8 0%, #FAFAFA 100%) 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+ul{
+    list-style: none;
+    
+}
+a{
+    color: #383833;
+    text-decoration: none;
+}
+/* .Hero_Section{
+    
+    justify-content: flex-end;
+} */
+.content{
+    background: var(--unnamed-color-387546) 30% 40% no-repeat padding-box;
+    background: #387546 30% 30% no-repeat padding-box;
+    opacity: 1;
+    border-radius: 70% 0% 60% 90%;
+}
+.boo{
+    font-size: 20px;
+}
+.shunkurt{
+    top: -10px;
+    left: -100px;
+}
+.content_2{
+    top: 830px;
+    background: #598463 0% 0% no-repeat padding-box;
+    opacity: 1;
+    border-radius: 60% 60% 60% 50%;
+}
+.bolder{
+    font-size: 24px;
+}
+.menu,.about,.Contact,.contact_section{
+    background-color: #FAFAFA;
+}
+.rounded-pill img{
+    
+}
